@@ -5,7 +5,7 @@ The code is coming soon....
 # In-domain: 
 Synthetic Data
 <p align="center">
-  <img src="GIF/overlap_gallery.gif" width="700">
+  <img src="GIF/overlap_gallery.gif" width="850">
 </p>
 
 <p align="center">
