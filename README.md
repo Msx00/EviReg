@@ -19,11 +19,12 @@ Human Liver
   <img src="GIF/real_intraoperative_four_cases_registration.gif" width="850">
 </p>
 
-Liver Phantom
+Liver Phantom 1
 <p align="center">
   <img src="GIF/sparse_tre_four_cases_registration.gif" width="850">
 </p>
 
+Liver Phantom 2
 <p align="center">
   <img src="GIF/zixinyang_four_cases_registration.gif" width="850">
 </p>
