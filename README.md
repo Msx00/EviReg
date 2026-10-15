@@ -14,7 +14,7 @@ Synthetic Data
 
 
 # Zero-shot:
-Human Liver
+In-vivo Human Liver
 <p align="center">
   <img src="GIF/real_intraoperative_four_cases_registration.gif" width="850">
 </p>
