@@ -19,12 +19,12 @@ In-vivo Human Liver
   <img src="GIF/real_intraoperative_four_cases_registration.gif" width="850">
 </p>
 
-Liver Phantom 1
+Liver Phantom 1 (Sparse Challenge)
 <p align="center">
   <img src="GIF/sparse_tre_four_cases_registration.gif" width="850">
 </p>
 
-Liver Phantom 2
+Liver Phantom 2 (BCF-FEM)
 <p align="center">
   <img src="GIF/zixinyang_four_cases_registration.gif" width="850">
 </p>
