@@ -14,7 +14,7 @@ Synthetic Data
 
 
 # Zero-shot:
-In-vivo Human Liver
+In-vivo Human Liver Dataset (P2I-LReg)
 <p align="center">
   <img src="GIF/real_intraoperative_four_cases_registration.gif" width="850">
 </p>
